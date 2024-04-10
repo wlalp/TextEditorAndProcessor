@@ -1,4 +1,4 @@
-'''This is the module housing the text editor window'''
+'''This module houses the text editor window'''
 import tkinter as tk
 from tkinter import *
 import tkinter.scrolledtext as tksc
